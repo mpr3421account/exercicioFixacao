@@ -16,7 +16,7 @@ namespace exercicioFixacao.Entities
         {
             Name = name;
             Email = email;
-            BirthDate = date;
+            BirthDate = birthdate;
         }
     }
 }
